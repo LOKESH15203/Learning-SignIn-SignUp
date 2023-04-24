@@ -3,9 +3,9 @@ package com.example.aa10learningapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class Signup_login : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_signup_login)
+        setContentView(R.layout.activity_login)
     }
 }
