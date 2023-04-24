@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88493651832",
+    "project_id": "aa10-learning-app",
+    "storage_bucket": "aa10-learning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88493651832:android:8328c8a2ee9170a7c7ba8d",
+        "android_client_info": {
+          "package_name": "com.example.aa10learningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88493651832-h0atca2jtrt6fhk6bfa32qtgensovjj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnA536SN_x_gCiFv7oCrfrg7-iORH-TrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88493651832-h0atca2jtrt6fhk6bfa32qtgensovjj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
